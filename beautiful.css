@@ -1,0 +1,59 @@
+img{
+    margin-left: 12%;
+    width: 15%;
+    margin-top: 2%;
+}
+.navbar{
+    background-color: black;
+    margin-left: 12%;
+    padding: 1px;  
+
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    font: 1.2rem;
+    padding: 10px   10px;
+    cursor: pointer;
+}
+.navbar :hover{
+    color: yellowgreen;
+    border-radius: 3px;
+}
+.statusbar{
+    
+}
+.statusbar a{
+    background-color: whitesmoke;
+    text-decoration: none;
+    margin-left: 12%;
+    font: 1.2rem;
+    padding: 10px   10px;
+}
+.statusbar  :hover{
+    color: yellowgreen;
+    border-radius: 3px;
+}
+H1{
+    font-size: 42px;
+    margin-left: 12%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    text-decoration: none;
+    margin-left: 12%;
+    }
+    input   :hover{
+     color: yellowgreen;
+    border-radius: 3px;   
+    }
+   p{
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-left: 12%;
+        text-align: justify;
+   }
+   h2{
+       margin-left: 12%;
+       font
+   }
